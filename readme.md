@@ -9,7 +9,7 @@ ACG-soul 是一个旨在提供一个上传和发现二次元图片的平台。�
 - 探索迷人的动漫和漫画艺术世界。
 
 ## 预览
-<!-- TODO -->
+https://github.com/charSLee013/ACG-soul/assets/20462328/6fbe36fa-4f05-4b01-968d-327535494f78
 
 ## 架构
 ![Architecture](./ACG-soul%20Architecture.drawio.png)
